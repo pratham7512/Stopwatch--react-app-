@@ -1,2 +1,13 @@
-# Stopwatch--react-app-
-Stopwatch App (ReactJS + Tailwind)
+# React Stopwatch App
+
+A simple stopwatch application built with React and styled using Tailwind CSS. This app allows users to start, stop, and reset the stopwatch.
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+
+## Screenshots
+
+![Screenshot 1](./assets/screenshot1.png)
+
