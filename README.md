@@ -7,7 +7,5 @@ A simple stopwatch application built with React and styled using Tailwind CSS. T
 - React
 - Tailwind CSS
 
-## Screenshots
-
 ![Screenshot 1](./assets/screenshot1.png)
 
